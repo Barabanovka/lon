@@ -33,3 +33,4 @@ html
 openai
 network
 neural
+algorithm
