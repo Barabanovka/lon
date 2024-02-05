@@ -30,3 +30,4 @@ documentation
 network
 api
 html
+openai
