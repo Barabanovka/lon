@@ -44,3 +44,4 @@ security
 html
 openai
 cat
+javascript
